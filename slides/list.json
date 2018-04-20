@@ -28,7 +28,8 @@
     {
         "filename": "en-html.html",
         "attr": {
-            "data-background-image": "../resources/bg-home-blockchain.jpg"
+            "data-background-image":
+                "https://giphy.com/gifs/JIX9t2j0ZTN9S/html5"
         }
     },
     "en-html.html",
@@ -50,6 +51,12 @@
         "filename": "preguntas.html",
         "attr": {
             "data-background-image": "http://tv.giphy.com/awesome"
+        }
+    },
+    {
+        "filename": "function-node.md",
+        "attr": {
+            "data-background": "#ff0000"
         }
     }
 ]

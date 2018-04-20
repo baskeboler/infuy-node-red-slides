@@ -1,7 +1,7 @@
-##  Qué es node-red? (cont.) 2
+## Paleta de nodos básicos
 
-This is a new Markdown slide
+![](/resources/core-nodes.jpg)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+Put your speaker notes here.
+You can see them pressing 's'.
