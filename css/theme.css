@@ -4,7 +4,6 @@
  * Copyright (C) 2015 Hakim El Hattab, http://hakim.se
  */
 @import url(../bower_components/reveal.js/lib/font/source-sans-pro/source-sans-pro.css);
-section,
 section h1,
 section h2,
 section h3,
@@ -12,15 +11,9 @@ section h4,
 section h5,
 section h6 {
   color: #02487e;
-  text-shadow: 0 0 16px white; }
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; }
 
-section.has-dark-background,
-section.has-dark-background h1,
-section.has-dark-background h2,
-section.has-dark-background h3,
-section.has-dark-background h4,
-section.has-dark-background h5,
-section.has-dark-background h6 {
+section.has-dark-background {
   color: white;
   text-shadow: 0 0 16px #02487e; }
 

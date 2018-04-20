@@ -42,7 +42,6 @@ $heading3Size: 1.3em;
 $heading4Size: 1em;
 
 section {
-    &,
     h1,
     h2,
     h3,
@@ -50,21 +49,16 @@ section {
     h5,
     h6 {
         color: #02487e;
-        text-shadow: 0 0 16px white;
+        // text-shadow: 0 0 16px white;
+        // color: white;
+        text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+            1px 1px 0 #000;
     }
 
     &.has-dark-background {
-        &,
-        h1,
-        h2,
-        h3,
-        h4,
-        h5,
-        h6 {
-            color: white;
+        color: white;
 
-            text-shadow: 0 0 16px #02487e;
-        }
+        text-shadow: 0 0 16px #02487e;
     }
 }
 
