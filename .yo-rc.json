@@ -1,0 +1,8 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "node-red / Azure Cognitive Services Face API",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": false
+  }
+}

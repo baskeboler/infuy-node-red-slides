@@ -1,0 +1,55 @@
+[
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background-image": "../resources/bg-testimonials.jpg"
+        }
+    },
+    "contenido.md",
+    [
+        "que-es-node-red.md",
+        "que-es-node-red-cont.md",
+        "que-es-node-red-cont-2.md"
+    ],
+    "azure-cognitive-services.md",
+    "face-api.md",
+    "face-api-detect.md",
+    "face-api-persongroup.md",
+    "face-api-persongroup-person.md",
+    "face-api-face.md",
+    "referencias.md",
+    {
+        "filename": "conclusiones.md",
+        "attr": {
+            "data-background-image":
+                "https://media.giphy.com/media/tbSDy0ipnLCta/giphy.gif"
+        }
+    },
+    {
+        "filename": "en-html.html",
+        "attr": {
+            "data-background-image": "../resources/bg-home-blockchain.jpg"
+        }
+    },
+    "en-html.html",
+    "en-html.html",
+    {
+        "filename": "en-html.html",
+        "attr": {
+            "data-class": "has-light-background"
+        }
+    },
+    {
+        "filename": "graciass.md",
+        "attr": {
+            "data-background-image":
+                "https://media.giphy.com/media/10UUe8ZsLnaqwo/giphy.gif"
+        }
+    },
+    {
+        "filename": "preguntas.html",
+        "attr": {
+            "data-background-image": "http://tv.giphy.com/awesome"
+        }
+    }
+]
