@@ -4,19 +4,6 @@
  * Copyright (C) 2015 Hakim El Hattab, http://hakim.se
  */
 @import url(../bower_components/reveal.js/lib/font/source-sans-pro/source-sans-pro.css);
-section h1,
-section h2,
-section h3,
-section h4,
-section h5,
-section h6 {
-  color: #02487e;
-  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; }
-
-section.has-dark-background {
-  color: white;
-  text-shadow: 0 0 16px #02487e; }
-
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
@@ -295,3 +282,16 @@ body {
   -webkit-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
   -moz-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
   transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985); }
+
+.reveal section h1,
+.reveal section h2,
+.reveal section h3,
+.reveal section h4,
+.reveal section h5,
+.reveal section h6 {
+  color: #02487e;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; }
+
+.reveal section.has-dark-background {
+  color: white;
+  text-shadow: 0 0 16px #02487e; }

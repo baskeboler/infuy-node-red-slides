@@ -1,6 +1,6 @@
-## Function node
+# Function node
 
-This is a new Markdown slide
+![](/resources/simple-function.jpg)
 
 ```javascript
 let entrada = msg.payload;

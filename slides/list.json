@@ -11,18 +11,50 @@
         "que-es-node-red-cont.md",
         "que-es-node-red-cont-2.md"
     ],
-    "azure-cognitive-services.md",
-    "face-api.md",
-    "face-api-detect.md",
-    "face-api-persongroup.md",
-    "face-api-persongroup-person.md",
-    "face-api-face.md",
+    {
+        "filename": "tipos-de-nodos.md"
+    },
+    {
+        "filename": "nodos-entrada.md",
+        "attr": {}
+    },
+    {
+        "filename": "nodos-salida.md",
+        "attr": {}
+    },
+    {
+        "filename": "nodos-entrada-salida.md",
+        "attr": {}
+    },
+    {
+        "filename": "function-node.md",
+        "attr": {
+            "data-background-image":
+                "https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif"
+        }
+    },
+    {
+        "filename": "contexto.md",
+        "attr": {}
+    },
     "referencias.md",
+    "azure-cognitive-services.md",
+    [
+        "face-api.md",
+        "face-api-detect.md",
+        "face-api-persongroup.md",
+        "face-api-persongroup-person.md",
+        "face-api-face.md",
+        {
+            "filename": "face-api-train.md",
+            "attr": {}
+        }
+    ],
     {
         "filename": "conclusiones.md",
         "attr": {
             "data-background-image":
-                "https://media.giphy.com/media/tbSDy0ipnLCta/giphy.gif"
+                "https://media.giphy.com/media/dGk3j2cMR4jao/giphy.gif"
         }
     },
     {
@@ -44,20 +76,15 @@
         "filename": "graciass.md",
         "attr": {
             "data-background-image":
-                "https://media.giphy.com/media/10UUe8ZsLnaqwo/giphy.gif"
+                "https://media.giphy.com/media/10UUe8ZsLnaqwo/giphy.gif",
+            "data-class": "has-dark-background"
         }
     },
     {
         "filename": "preguntas.html",
         "attr": {
-            "data-background-image": "http://tv.giphy.com/awesome"
-        }
-    },
-    {
-        "filename": "function-node.md",
-        "attr": {
             "data-background-image":
-                "https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif"
+                "https://media.giphy.com/media/dGk3j2cMR4jao/giphy.gif"
         }
     }
 ]

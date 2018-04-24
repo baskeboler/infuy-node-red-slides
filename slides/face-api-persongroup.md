@@ -1,7 +1,9 @@
-##  Face API (PersonGroup)
+## Face API (PersonGroup)
 
-This is a new Markdown slide
+Representa un group de personas.
+
+![](/resources/person-group.jpg)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+Put your speaker notes here.
+You can see them pressing 's'.

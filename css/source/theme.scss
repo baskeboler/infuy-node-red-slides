@@ -41,27 +41,6 @@ $heading2Size: 1.6em;
 $heading3Size: 1.3em;
 $heading4Size: 1em;
 
-section {
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-        color: #02487e;
-        // text-shadow: 0 0 16px white;
-        // color: white;
-        text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
-            1px 1px 0 #000;
-    }
-
-    &.has-dark-background {
-        color: white;
-
-        text-shadow: 0 0 16px #02487e;
-    }
-}
-
 // Generates the presentation background, can be overridden
 // to return a background image or gradient
 @mixin bodyBackground() {
@@ -71,3 +50,21 @@ section {
 // Theme template ------------------------------
 @import '../../bower_components/reveal.js/css/theme/template/theme';
 // ---------------------------------------------
+
+.reveal section {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        color: #02487e; // text-shadow: 0 0 16px white;
+        // color: white;
+        text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+            1px 1px 0 #000;
+    }
+    &.has-dark-background {
+        color: white;
+        text-shadow: 0 0 16px #02487e;
+    }
+}

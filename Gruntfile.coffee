@@ -32,7 +32,7 @@ module.exports = (grunt) ->
             jshint:
                 files: ['js/*.js']
                 tasks: ['jshint']
-        
+
             sass:
                 files: ['css/source/theme.scss']
                 tasks: ['sass']
@@ -42,12 +42,12 @@ module.exports = (grunt) ->
             theme:
                 files:
                     'css/theme.css': 'css/source/theme.scss'
-        
+
         connect:
 
             livereload:
                 options:
-                    port: 9000
+                    port: 9002
                     base: '.'
                     open: true
                     livereload: true
@@ -89,7 +89,7 @@ module.exports = (grunt) ->
                     filter: 'isFile'
                 }]
 
-        
+
 
 
     # Load all grunt tasks.
@@ -133,7 +133,7 @@ module.exports = (grunt) ->
             'copy'
         ]
 
-    
+
 
     # Define default task.
     grunt.registerTask 'default', [

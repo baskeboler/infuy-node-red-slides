@@ -1,7 +1,5 @@
-##  Conclusiones
-
-This is a new Markdown slide
+# Preguntas?
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+Put your speaker notes here.
+You can see them pressing 's'.
