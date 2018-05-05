@@ -1,7 +1,13 @@
-##  Azure Cognitive Services
+## Azure Cognitive Services
 
-This is a new Markdown slide
+Cloud service de Azure con servicios de Inteligencia Artificial.
+
+*   Visión
+*   Voz
+*   Conocimiento
+*   Lenguaje
+*   Bing Search
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+Put your speaker notes here.
+You can see them pressing 's'.

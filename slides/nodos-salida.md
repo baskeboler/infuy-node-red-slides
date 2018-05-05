@@ -1,7 +1,10 @@
-##  Nodos Salida
+## Nodos Salida
 
-This is a new Markdown slide
+Fin del flujo.
+
+*   Retornan de alguna manera los mensajes al mundo.
+*   Ver ejemplos en node-red
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+Put your speaker notes here.
+You can see them pressing 's'.

@@ -2,6 +2,8 @@
 
 Representa un group de personas.
 
+`PUT /personGroups/{id}`
+
 ![](/resources/person-group.jpg)
 
 note:

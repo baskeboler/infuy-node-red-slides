@@ -1,7 +1,7 @@
-##  Face API (PersonGroup Person)
+## Face API (PersonGroup Person)
 
-This is a new Markdown slide
+`POST /personGroups/{id-person-group}/persons`
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+Put your speaker notes here.
+You can see them pressing 's'.
